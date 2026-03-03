@@ -178,7 +178,7 @@
 <body>
     <canvas id="canvas"></canvas>
     <div class="foreground">
-        <div class="caption">⚓ 船长在这个世界已经探索了</div>
+        <div class="caption">⚓ 你在这个世界已经探索了</div>
         <div class="years-main" id="yearsDisplay">28年</div>
         <div class="detail" id="detailDisplay">84天 16小时 32分钟 10秒</div>
     </div>
